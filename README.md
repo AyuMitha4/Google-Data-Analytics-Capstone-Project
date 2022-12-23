@@ -22,7 +22,7 @@
 - Tableau for data visualization.
 
 ## Documentation
-SQL query documentation in [SQL Server](https://github.com/AyuMitha4/Google-Data-Analytics-Capstone-Project/blob/main/SQLQuery2.sql)
+SQL [query](https://github.com/AyuMitha4/Google-Data-Analytics-Capstone-Project/blob/main/SQLQuery2.sql) documentation in SQL Server.
 
 ## Visualization
 Dashboard visualization on [Tableau](https://public.tableau.com/app/profile/ayumitha/viz/GoogleDataAnalyticsCapstoneCaseStudy2bellabeat/Dashboard1)
